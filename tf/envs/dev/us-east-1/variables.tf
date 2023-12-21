@@ -1,0 +1,10 @@
+variable "aws_account_id" {}
+variable "product_name" {}
+variable "product_env" {}
+variable "aws_region" {}
+variable "vpc_id" {}
+variable "tags" {}
+variable "marketplace_access_server_ami" {}
+variable "instance_type" {}
+variable "volume_size" {}
+variable "volume_type" {}
